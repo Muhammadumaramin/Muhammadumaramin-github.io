@@ -1,0 +1,671 @@
+[
+  {
+    "path": "css/animate.css",
+    "bytes": 73641,
+    "header": "@charset \"UTF-8\";  /*! Animate.css - http://daneden.me/animate Licensed under the MIT license - http://opensource.org/licenses/MIT  Copyright (c) 2015 Daniel Ed",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/aos.css",
+    "bytes": 25983,
+    "header": "[data-aos][data-aos][data-aos-duration=\"50\"],body[data-aos-duration=\"50\"] [data-aos]{transition-duration:50ms}[data-aos][data-aos][data-aos-delay=\"50\"],body[dat",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/bootstrap.min.css",
+    "bytes": 140421,
+    "header": "/*!  * Bootstrap v4.1.0 (https://getbootstrap.com/)  * Copyright 2011-2018 The Bootstrap Authors  * Copyright 2011-2018 Twitter, Inc.  * Licensed under MIT (htt",
+    "references": [
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg viewBox=",
+      "data:image/svg+xml;charset=utf8,%3Csvg viewBox=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns="
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/bootstrap/bootstrap-grid.css",
+    "bytes": 45805,
+    "header": "/*!  * Bootstrap Grid v4.1.0 (https://getbootstrap.com/)  * Copyright 2011-2018 The Bootstrap Authors  * Copyright 2011-2018 Twitter, Inc.  * Licensed under MIT",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/bootstrap/bootstrap-reboot.css",
+    "bytes": 4749,
+    "header": "/*!  * Bootstrap Reboot v4.2.1 (https://getbootstrap.com/)  * Copyright 2011-2018 The Bootstrap Authors  * Copyright 2011-2018 Twitter, Inc.  * Licensed under M",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/css/bootstrap-reboot.css",
+    "bytes": 4868,
+    "header": "/*!  * Bootstrap Reboot v4.1.0 (https://getbootstrap.com/)  * Copyright 2011-2018 The Bootstrap Authors  * Copyright 2011-2018 Twitter, Inc.  * Licensed under M",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/css/mixins/_text-hide.css",
+    "bytes": 0,
+    "header": "",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/flaticon.css",
+    "bytes": 1407,
+    "header": "\t/*   \tFlaticon icon font: Flaticon   \tCreation date: 04/01/2019 13:45   \t*/   @font-face {   font-family: \"Flaticon\";   src: url(\"../fonts/flaticon/font/Flatic",
+    "references": [
+      "../fonts/flaticon/font/Flaticon.eot",
+      "../fonts/flaticon/font/Flaticon.eot?#iefix",
+      "../fonts/flaticon/font/Flaticon.woff",
+      "../fonts/flaticon/font/Flaticon.ttf",
+      "../fonts/flaticon/font/Flaticon.svg#Flaticon",
+      "../fonts/flaticon/font/Flaticon.svg#Flaticon"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/icomoon.css",
+    "bytes": 79875,
+    "header": "@font-face {   font-family: 'icomoon';   src:  url('../fonts/icomoon/icomoon.eot?6tt51o');   src:  url('../fonts/icomoon/icomoon.eot?6tt51o#iefix') format('embe",
+    "references": [
+      "../fonts/icomoon/icomoon.eot?6tt51o",
+      "../fonts/icomoon/icomoon.eot?6tt51o#iefix",
+      "../fonts/icomoon/icomoon.ttf?6tt51o",
+      "../fonts/icomoon/icomoon.woff?6tt51o",
+      "../fonts/icomoon/icomoon.svg?6tt51o#icomoon"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/ionicons.min.css",
+    "bytes": 46816,
+    "header": "/*!   Ionicons, v4.0.0-19   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/   https://twitter.com/benjsperry  https://twitter.com/ionicframe",
+    "references": [
+      "../fonts/ionicons/fonts/ionicons.eot?v=4.0.0-19",
+      "../fonts/ionicons/fonts/ionicons.eot?v=4.0.0-19#iefix",
+      "../fonts/ionicons/fonts/ionicons.woff2?v=4.0.0-19",
+      "../fonts/ionicons/fonts/ionicons.woff?v=4.0.0-19",
+      "../fonts/ionicons/fonts/ionicons.ttf?v=4.0.0-19",
+      "../fonts/ionicons/fonts/ionicons.svg?v=4.0.0-19#Ionicons"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/magnific-popup.css",
+    "bytes": 6950,
+    "header": "/* Magnific Popup CSS */ .mfp-bg {   top: 0;   left: 0;   width: 100%;   height: 100%;   z-index: 1042;   overflow: hidden;   position: fixed;   background: #0b",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/open-iconic-bootstrap.min.css",
+    "bytes": 9467,
+    "header": "@font-face{font-family:Icons;src:url(../fonts/open-iconic/open-iconic.eot);src:url(../fonts/open-iconic/open-iconic.eot?#iconic-sm) format('embedded-opentype'),",
+    "references": [
+      "../fonts/open-iconic/open-iconic.eot",
+      "../fonts/open-iconic/open-iconic.eot?#iconic-sm",
+      "../fonts/open-iconic/open-iconic.woff",
+      "../fonts/open-iconic/open-iconic.ttf",
+      "../fonts/open-iconic/open-iconic.otf",
+      "../fonts/open-iconic/open-iconic.svg#iconic-sm"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/owl.carousel.min.css",
+    "bytes": 3351,
+    "header": "/**  * Owl Carousel v2.3.4  * Copyright 2013-2018 David Deutsch  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICEN",
+    "references": [
+      "owl.video.play.png"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/owl.theme.default.min.css",
+    "bytes": 965,
+    "header": "/**  * Owl Carousel v2.2.1  * Copyright 2013-2017 David Deutsch  * Licensed under  ()  */ .owl-theme .owl-dots, .owl-theme .owl-nav{text-align:center;-webkit-ta",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "css/style.css",
+    "bytes": 261969,
+    "header": "/*!  * Bootstrap v4.3.1 (https://getbootstrap.com/)  * Copyright 2011-2019 The Bootstrap Authors  * Copyright 2011-2019 Twitter, Inc.  * Licensed under MIT (htt",
+    "references": [
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg viewBox=",
+      "data:image/svg+xml,%3csvg viewBox=",
+      "data:image/svg+xml,%3csvg xmlns=",
+      "data:image/svg+xml,%3csvg xmlns="
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "fonts/flaticon/font/flaticon.css",
+    "bytes": 1161,
+    "header": "\t/*   \tFlaticon icon font: Flaticon   \tCreation date: 20/03/2019 02:18   \t*/  @font-face {   font-family: \"Flaticon\";   src: url(\"./Flaticon.eot\");   src: url(\"",
+    "references": [
+      "./Flaticon.eot",
+      "./Flaticon.eot?#iefix",
+      "./Flaticon.woff2",
+      "./Flaticon.woff",
+      "./Flaticon.ttf",
+      "./Flaticon.svg#Flaticon",
+      "./Flaticon.svg#Flaticon"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "fonts/flaticon/font/flaticon.html",
+    "bytes": 18967,
+    "header": "<!DOCTYPE html> <!--   Flaticon icon font: Flaticon   Creation date: 20/03/2019 02:18 --> <html> <!DOCTYPE html> <html>  <head>     <title>Flaticon WebFont</tit",
+    "references": [
+      "http://fonts.googleapis.com/css?family=Varela+Round",
+      "flaticon.css",
+      "https://www.flaticon.com",
+      "http://www.freepik.com",
+      "http://www.freepik.com",
+      "http://www.freepik.com",
+      "http://www.freepik.com",
+      "https://www.flaticon.com/authors/monkik",
+      "https://www.flaticon.com/authors/smashicons",
+      "https://www.flaticon.com/authors/geotatah",
+      "https://www.flaticon.com",
+      "http://creativecommons.org/licenses/by/3.0/",
+      "http://www.freepik.com",
+      "https://www.flaticon.com/authors/monkik",
+      "https://www.flaticon.com/authors/smashicons",
+      "https://www.flaticon.com/authors/geotatah",
+      "http://creativecommons.org/licenses/by/3.0/",
+      "http://www.freepik.com",
+      "https://www.flaticon.com/authors/monkik",
+      "https://www.flaticon.com/authors/smashicons",
+      "https://www.flaticon.com/authors/geotatah",
+      "https://www.flaticon.com"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "fonts/ionicons/css/ionicons.min.css",
+    "bytes": 51284,
+    "header": "@charset \"UTF-8\";/*!   Ionicons, v2.0.0   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/   https://twitter.com/benjsperry  https://twitter.",
+    "references": [
+      "../fonts/ionicons.eot?v=2.0.0",
+      "../fonts/ionicons.eot?v=2.0.0#iefix",
+      "../fonts/ionicons.ttf?v=2.0.0",
+      "../fonts/ionicons.woff?v=2.0.0",
+      "../fonts/ionicons.svg?v=2.0.0#Ionicons"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "index.html",
+    "bytes": 27804,
+    "header": "<!DOCTYPE html> <html lang=\"en\">   <head>     <title>Muhammad Umar Amin Portfolio</title>     <meta charset=\"utf-8\">     <meta name=\"viewport\" content=\"width=de",
+    "references": [
+      "https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900",
+      "css/open-iconic-bootstrap.min.css",
+      "css/animate.css",
+      "css/owl.carousel.min.css",
+      "css/owl.theme.default.min.css",
+      "css/magnific-popup.css",
+      "css/aos.css",
+      "css/ionicons.min.css",
+      "css/flaticon.css",
+      "css/icomoon.css",
+      "css/style.css",
+      "index.html",
+      "#home-section",
+      "#about-section",
+      "#resume-section",
+      "#project-section",
+      "#contact-section",
+      "https://www.linkedin.com/in/mumaramin-0a6795257/",
+      "https://github.com/rishabhnmishra",
+      "images/about-me.jpg",
+      "https://www.linkedin.com/in/mumaramin-0a6795257/",
+      "#",
+      "https://github.com/Muhammadumaramin/Statistical-Cirrhosis-Death-Rates",
+      "https://github.com/Muhammadumaramin/Statistical-Cirrhosis-Death-Rates",
+      "https://github.com/Muhammadumaramin/Time_Series_Forecasting_of_Walmart_Sales",
+      "https://github.com/Muhammadumaramin/Time_Series_Forecasting_of_Walmart_Sales",
+      "https://github.com/Muhammadumaramin/Analysis_of_Hydrocarbon_Emissions",
+      "https://github.com/Muhammadumaramin/Analysis_of_Hydrocarbon_Emissions",
+      "https://github.com/rishabhnmishra/sales_forecasting/tree/main",
+      "https://github.com/rishabhnmishra/sales_forecasting/tree/main",
+      "https://github.com/rishabhnmishra/customer_segmentation/blob/main/Customer_Segmentation-final.ipynb",
+      "https://github.com/rishabhnmishra/customer_segmentation/blob/main/Customer_Segmentation-final.ipynb",
+      "https://github.com/rishabhnmishra",
+      "tel://0101010101",
+      "mailto:info@yoursite.com",
+      "#",
+      "https://forms.gle/uLaTShUKXraAvHJ77",
+      "https://www.youtube.com/@RishabhMishraOfficial",
+      "https://www.linkedin.com/in/mumaramin-0a6795257/",
+      "https://twitter.com/rishabhnmishra",
+      "https://www.facebook.com/profile.php?id=100011196582230",
+      "https://www.instagram.com/rishabhnmishra/",
+      "https://colorlib.com",
+      "js/jquery.min.js",
+      "js/jquery-migrate-3.0.1.min.js",
+      "js/popper.min.js",
+      "js/bootstrap.min.js",
+      "js/jquery.easing.1.3.js",
+      "js/jquery.waypoints.min.js",
+      "js/jquery.stellar.min.js",
+      "js/owl.carousel.min.js",
+      "js/jquery.magnific-popup.min.js",
+      "js/aos.js",
+      "js/jquery.animateNumber.min.js",
+      "js/scrollax.min.js",
+      "js/main.js"
+    ],
+    "status": "replaced"
+  },
+  {
+    "path": "js/aos.js",
+    "bytes": 14244,
+    "header": "!function(e,t){\"object\"==typeof exports&&\"object\"==typeof module?module.exports=t():\"function\"==typeof define&&define.amd?define([],t):\"object\"==typeof exports?",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/bootstrap.min.js",
+    "bytes": 58072,
+    "header": "/*!   * Bootstrap v4.3.1 (https://getbootstrap.com/)   * Copyright 2011-2019 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)   * L",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/google-map.js",
+    "bytes": 1946,
+    "header": " var google;  function init() {     // Basic options for a simple Google Map     // For more options see: https://developers.google.com/maps/documentation/javas",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/jquery-3.2.1.min.js",
+    "bytes": 86658,
+    "header": "/*! jQuery v3.2.1 | (c) JS Foundation and other contributors | jquery.org/license */ !function(a,b){\"use strict\";\"object\"==typeof module&&\"object\"==typeof modul",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/jquery-migrate-3.0.1.min.js",
+    "bytes": 11421,
+    "header": "/*! jQuery Migrate v3.0.1 | (c) jQuery Foundation and other contributors | jquery.org/license */  void 0 === jQuery.migrateMute && (jQuery.migrateMute = !0), fu",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/jquery.animateNumber.min.js",
+    "bytes": 1391,
+    "header": "/*  jQuery animateNumber plugin v0.0.14  (c) 2013, Alexandr Borisov.  https://github.com/aishek/jquery-animateNumber */ (function(d){var r=function(b){return b.",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/jquery.easing.1.3.js",
+    "bytes": 8111,
+    "header": "/*  * jQuery Easing v1.3 - http://gsgd.co.uk/sandbox/jquery/easing/  *  * Uses the built in easing capabilities added In jQuery 1.1  * to offer multiple easing ",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/jquery.magnific-popup.min.js",
+    "bytes": 20216,
+    "header": "/*! Magnific Popup - v1.1.0 - 2016-02-20 * http://dimsemenov.com/plugins/magnific-popup/ * Copyright (c) 2016 Dmitry Semenov; */ !function(a){\"function\"==typeof",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/jquery.min.js",
+    "bytes": 268038,
+    "header": "/*!  * jQuery JavaScript Library v3.2.1  * https://jquery.com/  *  * Includes Sizzle.js  * https://sizzlejs.com/  *  * Copyright JS Foundation and other contrib",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/jquery.stellar.min.js",
+    "bytes": 12597,
+    "header": "/*! Stellar.js v0.6.2 | Copyright 2014, Mark Dalgleish | http://markdalgleish.com/projects/stellar.js | http://markdalgleish.mit-license.org */ !function(a,b,c,",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/jquery.waypoints.min.js",
+    "bytes": 8835,
+    "header": "/*! Waypoints - 4.0.0 Copyright \u00c2\u00a9 2011-2015 Caleb Troughton Licensed under the MIT license. https://github.com/imakewebthings/waypoints/blog/master/licenses.tx",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/main.js",
+    "bytes": 5765,
+    "header": " AOS.init({  \tduration: 800,  \teasing: 'slide'  });  (function($) {  \t\"use strict\";  \t$(window).stellar({     responsive: true,     parallaxBackgrounds: true,  ",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/owl.carousel.min.js",
+    "bytes": 43237,
+    "header": "/**  * Owl Carousel v2.3.0  * Copyright 2013-2017 David Deutsch  * Licensed under  ()  */ !function(a,b,c,d){function e(b,c){this.settings=null,this.options=a.e",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/popper.min.js",
+    "bytes": 19032,
+    "header": "/*  Copyright (C) Federico Zivolo 2017  Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).  */(function(e,t){'object'=",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "js/scrollax.min.js",
+    "bytes": 7447,
+    "header": "/**  *  _______ _______  ______  _____                _______ _     _  *  |______ |       |_____/ |     | |      |      |_____|  \\___/   *  ______| |_____  |   ",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/animate/animate.css",
+    "bytes": 77749,
+    "header": "@charset \"UTF-8\";  /*!  * animate.css -http://daneden.me/animate  * Version - 3.7.0  * Licensed under the MIT license - http://opensource.org/licenses/MIT  *  *",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/animate/animate.min.css",
+    "bytes": 57987,
+    "header": "@charset \"UTF-8\";  /*!  * animate.css -http://daneden.me/animate  * Version - 3.7.0  * Licensed under the MIT license - http://opensource.org/licenses/MIT  *  *",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/bootstrap/css/bootstrap.css",
+    "bytes": 173597,
+    "header": "/*!  * Bootstrap v4.1.3 (https://getbootstrap.com/)  * Copyright 2011-2018 The Bootstrap Authors  * Copyright 2011-2018 Twitter, Inc.  * Licensed under MIT (htt",
+    "references": [
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg viewBox=",
+      "data:image/svg+xml;charset=utf8,%3Csvg viewBox=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns="
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/bootstrap/css/bootstrap.min.css",
+    "bytes": 140936,
+    "header": "/*!  * Bootstrap v4.1.3 (https://getbootstrap.com/)  * Copyright 2011-2018 The Bootstrap Authors  * Copyright 2011-2018 Twitter, Inc.  * Licensed under MIT (htt",
+    "references": [
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg viewBox=",
+      "data:image/svg+xml;charset=utf8,%3Csvg viewBox=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns=",
+      "data:image/svg+xml;charset=utf8,%3Csvg xmlns="
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/bootstrap/js/bootstrap.js",
+    "bytes": 123765,
+    "header": "/*!   * Bootstrap v4.1.3 (https://getbootstrap.com/)   * Copyright 2011-2018 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)   * L",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/bootstrap/js/bootstrap.min.js",
+    "bytes": 51039,
+    "header": "/*!   * Bootstrap v4.1.3 (https://getbootstrap.com/)   * Copyright 2011-2018 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)   * L",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/counterup/jquery.counterup.js",
+    "bytes": 4747,
+    "header": "/*!  * jquery.counterup.js 2.1.0  *  * Copyright 2013, Benjamin Intal http://gambit.ph @bfintal  * Released under the GPL v2 License  *  * Amended by Jeremy Par",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/counterup/jquery.counterup.min.js",
+    "bytes": 2182,
+    "header": "(function($){\"use strict\";$.fn.counterUp=function(options){var settings=$.extend({time:400,delay:10,offset:100,beginAt:0,formatter:false,context:\"window\",callba",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/counterup/jquery.waypoints.min.js",
+    "bytes": 8833,
+    "header": "/*! Waypoints - 4.0.0 Copyright \u00a9 2011-2015 Caleb Troughton Licensed under the MIT license. https://github.com/imakewebthings/waypoints/blog/master/licenses.txt",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/easing/easing.js",
+    "bytes": 4092,
+    "header": "/*  * jQuery Easing v1.4.1 - http://gsgd.co.uk/sandbox/jquery/easing/  * Open source under the BSD License.  * Copyright \u00a9 2008 George McGinley Smith  * All rig",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/easing/easing.min.js",
+    "bytes": 2302,
+    "header": "!function(n){\"function\"==typeof define&&define.amd?define([\"jquery\"],function(e){return n(e)}):\"object\"==typeof module&&\"object\"==typeof module.exports?exports=",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/font-awesome/css/font-awesome.css",
+    "bytes": 37414,
+    "header": "/*!  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License",
+    "references": [
+      "../fonts/fontawesome-webfont.eot?v=4.7.0",
+      "../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0",
+      "../fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "../fonts/fontawesome-webfont.woff?v=4.7.0",
+      "../fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/font-awesome/css/font-awesome.min.css",
+    "bytes": 31000,
+    "header": "/*!  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License",
+    "references": [
+      "../fonts/fontawesome-webfont.eot?v=4.7.0",
+      "../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0",
+      "../fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "../fonts/fontawesome-webfont.woff?v=4.7.0",
+      "../fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/ionicons/css/ionicons.css",
+    "bytes": 57193,
+    "header": "@charset \"UTF-8\"; /*!   Ionicons, v2.0.0   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/   https://twitter.com/benjsperry  https://twitter",
+    "references": [
+      "../fonts/ionicons.eot?v=2.0.0",
+      "../fonts/ionicons.eot?v=2.0.0#iefix",
+      "../fonts/ionicons.ttf?v=2.0.0",
+      "../fonts/ionicons.woff?v=2.0.0",
+      "../fonts/ionicons.svg?v=2.0.0#Ionicons"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/ionicons/css/ionicons.min.css",
+    "bytes": 51284,
+    "header": "@charset \"UTF-8\";/*!   Ionicons, v2.0.0   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/   https://twitter.com/benjsperry  https://twitter.",
+    "references": [
+      "../fonts/ionicons.eot?v=2.0.0",
+      "../fonts/ionicons.eot?v=2.0.0#iefix",
+      "../fonts/ionicons.ttf?v=2.0.0",
+      "../fonts/ionicons.woff?v=2.0.0",
+      "../fonts/ionicons.svg?v=2.0.0#Ionicons"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/jquery/jquery-migrate.min.js",
+    "bytes": 7083,
+    "header": "/*! jQuery Migrate v3.0.0 | (c) jQuery Foundation and other contributors | jquery.org/license */ \"undefined\"==typeof jQuery.migrateMute&&(jQuery.migrateMute=!0)",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/jquery/jquery.min.js",
+    "bytes": 86927,
+    "header": "/*! jQuery v3.3.1 | (c) JS Foundation and other contributors | jquery.org/license */ !function(e,t){\"use strict\";\"object\"==typeof module&&\"object\"==typeof modul",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/lightbox/css/lightbox.css",
+    "bytes": 3714,
+    "header": "html.lb-disable-scrolling {   overflow: hidden;   /* Position fixed required for iOS. Just putting overflow: hidden; on the body is not enough. */   position: f",
+    "references": [
+      "../images/loading.gif",
+      "data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "../images/prev.png",
+      "../images/next.png",
+      "../images/close.png"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/lightbox/css/lightbox.min.css",
+    "bytes": 2608,
+    "header": ".lb-loader,.lightbox{text-align:center;line-height:0}.lb-dataContainer:after,.lb-outerContainer:after{content:\"\";clear:both}html.lb-disable-scrolling{overflow:h",
+    "references": [
+      "../images/loading.gif",
+      "data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "../images/prev.png",
+      "../images/next.png",
+      "../images/close.png"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/lightbox/js/lightbox.js",
+    "bytes": 18410,
+    "header": "/*!  * Lightbox v2.10.0  * by Lokesh Dhakar  *  * More info:  * http://lokeshdhakar.com/projects/lightbox2/  *  * Copyright 2007, 2018 Lokesh Dhakar  * Released",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/lightbox/js/lightbox.min.js",
+    "bytes": 9418,
+    "header": "/*!  * Lightbox v2.10.0  * by Lokesh Dhakar  *  * More info:  * http://lokeshdhakar.com/projects/lightbox2/  *  * Copyright 2007, 2018 Lokesh Dhakar  * Released",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/owlcarousel/assets/owl.carousel.css",
+    "bytes": 4744,
+    "header": "/**  * Owl Carousel v2.3.4  * Copyright 2013-2018 David Deutsch  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICEN",
+    "references": [
+      "owl.video.play.png"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/owlcarousel/assets/owl.carousel.min.css",
+    "bytes": 3351,
+    "header": "/**  * Owl Carousel v2.3.4  * Copyright 2013-2018 David Deutsch  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICEN",
+    "references": [
+      "owl.video.play.png"
+    ],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/owlcarousel/assets/owl.theme.default.css",
+    "bytes": 1380,
+    "header": "/**  * Owl Carousel v2.3.4  * Copyright 2013-2018 David Deutsch  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICEN",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/owlcarousel/assets/owl.theme.default.min.css",
+    "bytes": 1013,
+    "header": "/**  * Owl Carousel v2.3.4  * Copyright 2013-2018 David Deutsch  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICEN",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/owlcarousel/assets/owl.theme.green.css",
+    "bytes": 1378,
+    "header": "/**  * Owl Carousel v2.3.4  * Copyright 2013-2018 David Deutsch  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICEN",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/owlcarousel/assets/owl.theme.green.min.css",
+    "bytes": 1013,
+    "header": "/**  * Owl Carousel v2.3.4  * Copyright 2013-2018 David Deutsch  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICEN",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/owlcarousel/owl.carousel.js",
+    "bytes": 89992,
+    "header": "/**  * Owl Carousel v2.3.4  * Copyright 2013-2018 David Deutsch  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICEN",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/owlcarousel/owl.carousel.min.js",
+    "bytes": 44342,
+    "header": "/**  * Owl Carousel v2.3.4  * Copyright 2013-2018 David Deutsch  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICEN",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/popper/popper.min.js",
+    "bytes": 20973,
+    "header": "/*  Copyright (C) Federico Zivolo 2018  Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).  */(function(e,t){'object'=",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/typed/typed.js",
+    "bytes": 32314,
+    "header": "/*!  *   *   typed.js - A JavaScript Typing Animation Library  *   Author: Matt Boldt <me@mattboldt.com>  *   Version: v2.0.6  *   Url: https://github.com/mattb",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  },
+  {
+    "path": "lib/typed/typed.min.js",
+    "bytes": 11461,
+    "header": "/*!  *   *   typed.js - A JavaScript Typing Animation Library  *   Author: Matt Boldt <me@mattboldt.com>  *   Version: v2.0.6  *   Url: https://github.com/mattb",
+    "references": [],
+    "status": "retained; not loaded by new portfolio"
+  }
+]
