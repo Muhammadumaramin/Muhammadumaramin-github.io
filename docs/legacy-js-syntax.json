@@ -1,0 +1,157 @@
+[
+  {
+    "path": "js/jquery.waypoints.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/jquery.animateNumber.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/owl.carousel.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/scrollax.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/aos.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/google-map.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/jquery-migrate-3.0.1.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/jquery.stellar.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/jquery.easing.1.3.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/jquery.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/popper.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/jquery.magnific-popup.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/main.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/bootstrap.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "js/jquery-3.2.1.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/typed/typed.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/typed/typed.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/easing/easing.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/easing/easing.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/jquery/jquery-migrate.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/jquery/jquery.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/counterup/jquery.counterup.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/counterup/jquery.waypoints.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/counterup/jquery.counterup.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/popper/popper.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/owlcarousel/owl.carousel.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/owlcarousel/owl.carousel.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/bootstrap/js/bootstrap.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/bootstrap/js/bootstrap.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/lightbox/js/lightbox.min.js",
+    "syntax_ok": true,
+    "error": null
+  },
+  {
+    "path": "lib/lightbox/js/lightbox.js",
+    "syntax_ok": true,
+    "error": null
+  }
+]
